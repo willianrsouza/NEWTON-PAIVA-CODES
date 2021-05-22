@@ -1,8 +1,19 @@
 import java.sql.Date;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "ProfessorUserEntity")
+
 public class Professor {
 
+    @Id
+    @GeneratedValue
     private Integer id;
+
     private String matricula;
     private String formacao;
     private Date dataNasc;

@@ -1,11 +1,18 @@
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
+
+import javax.persistence.EntityManager;
 
 public class DaoProfessor implements Dao<Professor> {
 
+    private EntityManager entityManager;
+
+    public DaoProfessor(EntityManager entityManager) {
+        this.entityManager = entityManager;
+    }
+
     @Override
     public Optional<Professor> get(long id) {
-        // TODO Auto-generated method stub
+
         return null;
     }
 
