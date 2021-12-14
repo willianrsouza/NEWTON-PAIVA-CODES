@@ -1,3 +1,18 @@
-# Newton-Paiva-Codes
+# NEWTON PAIVA CODES
 
-- Codigos dessenvolvidos durante o meu curso na Newton Paiva.
+- 
+project performed while studying at **Newton Paiva University**
+
+##### Applied Concepts: 
+
+- Data Persistence Concepts
+- Data Persistence Using Hibernate
+- API Concepts
+
+##### IDE'S: 
+
+- Eclipse IDE'
+
+##### License: 
+
+- MIT
