@@ -1,7 +1,6 @@
 # NEWTON PAIVA CODES
 
-- 
-project performed while studying at **Newton Paiva University**
+- Project performed while studying at **Newton Paiva University**
 
 ##### Applied Concepts: 
 
